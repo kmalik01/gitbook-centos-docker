@@ -11,3 +11,4 @@ node {
         sh "oc tag gitbook-centos-docker:latest gitbook-centos-docker:prod"
 
 }
+
